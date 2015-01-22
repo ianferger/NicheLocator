@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cordova" type="javaScript">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/node_modules/cordova/cordova.js" />
+    </SOURCES>
+  </library>
+</component>

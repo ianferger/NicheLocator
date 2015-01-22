@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="angular" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/lib/angular/angular.min.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-animate/angular-animate.min.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-sanitize/angular-sanitize.min.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/release/angular-ui-router.min.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/app/lib/angular/angular.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-animate/angular-animate.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-mocks/angular-mocks.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-sanitize/angular-sanitize.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-scenario/angular-scenario.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-scenario/jstd-scenario-adapter.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-scenario/jstd-scenario-adapter-config.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/src/view.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/src/state.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/src/common.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/src/compat.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/src/resolve.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/src/urlRouter.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/src/viewScroll.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/src/stateFilters.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/src/viewDirective.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/src/stateDirectives.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/src/templateFactory.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/src/urlMatcherFactory.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/angular-ui-router/release/angular-ui-router.js" />
+    </SOURCES>
+  </library>
+</component>

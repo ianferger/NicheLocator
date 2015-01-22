@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="collide" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/lib/collide/collide.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/locator/app/lib/collide/collide.js" />
+    </SOURCES>
+  </library>
+</component>

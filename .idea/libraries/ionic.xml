@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="ionic" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/lib/ionic/release/js/ionic.min.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/ionic/release/js/ionic.bundle.min.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/ionic/release/js/ionic-angular.min.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/app/lib/ionic/release/js/ionic.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/ionic/release/js/ionic.bundle.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/ionic/release/js/ionic-angular.js" />
+    </SOURCES>
+  </library>
+</component>
